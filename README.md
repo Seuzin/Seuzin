@@ -5,6 +5,7 @@ Redes Sociais! 🪐
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eliseu.lima.969952/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eliseu_pessin/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliseu-pessin-6619a6220/)
+[![Lintree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](linkr.bio/eliseuLima)
 
 ![Seuzin GitHub stats](https://github-readme-stats.vercel.app/api?username=Seuzin&show_icons=true&theme=dracula)
 
