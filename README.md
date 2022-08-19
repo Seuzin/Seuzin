@@ -20,12 +20,6 @@ Redes Sociais! 🪐
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seuzin&layout=compact)](https://github.com/Seuzin/github-readme-stats)
 
-### Mais algumas tecnologias que tive contato durante a faculdade
-- C++
-- Python
-- Java
-- Mysql
-
-Contato
+### Contato
 
 - Email: eliseupessin@gmail.com - (18) 99807-8840
